@@ -21,7 +21,7 @@
     ],
     'assets':{
         'web.assets_qweb': [
-            'quemen/static/src/xml/**/*',
+            'pos_closing_control/static/src/xml/**/*',
         ],    
 
     },
